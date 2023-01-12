@@ -9,7 +9,7 @@ Estudo de ferramentas em geral do ambiente DevOps
 <!-- CONTACT -->
 ## Contato
 
-- Linkedin: [Michael Fortes](https://www.linkedin.com/in/mikefortes/)
+- Linkedin: [Michael Fortes](https://www.linkedin.com/in/mikefortes)
 - Twitter: [@mikes_script
 ](https://twitter.com/mikes_script)
 - Email: mromeiro.f@gmail.com
