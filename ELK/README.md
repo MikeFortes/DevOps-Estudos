@@ -17,8 +17,10 @@ Ambiente instalado em um Ubuntu Server, mas operacional em outras distribuiçõe
 * vim /etc/elasticsearch/elasticsearch.yml
 
 Descomentar o parametro network.host (caso use um lab, deixe 0.0.0.0)&nbsp;
+
 Descomentar o parametro discovery.seed.host ["127.0.0.1"]
 &nbsp;
+
 Descomentar  e alterar para cluster.initial_master_noes ["node-1"]
 &nbsp;
 
