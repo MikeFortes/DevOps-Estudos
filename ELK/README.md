@@ -1,3 +1,4 @@
+![](https://www.paragyte.com/img/elk%20Banner.jpg)
 # Anotações de estudo
 
 ## Instalação do ambiente
