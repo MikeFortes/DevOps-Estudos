@@ -7,7 +7,7 @@ Ambiente instalado em um Ubuntu Server, mas operacional em outras distribuiçõe
 ### Atualizndo o ambiente
 * yum update
 * apt-get install update
-### Adicionando repo oficial ELK e exportando chaves
+### Adicionando repo oficial ELK e exportando chaves 
 * wget -qO - https://artifacts.elastic.co/GPG-KEY-elasticsearch | sudo apt-key add -
 * trusted.gpg.d
 * sudo apt-get install apt-transport-https
