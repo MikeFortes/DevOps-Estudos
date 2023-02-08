@@ -28,9 +28,9 @@ Descomentar  e alterar para cluster.initial_master_noes ["node-1"]
 
 ## Contato
 
-- Linkedin: [Michael Fortes](https://www.linkedin.com/in/mikefortes)
-- Twitter: [@mikes_script
+- Linkedin - [Michael Fortes](https://www.linkedin.com/in/mikefortes)
+- Twitter - [@mikes_script
 ](https://twitter.com/mikes_script)
-- Email: mromeiro.f@gmail.com
+- Email - mromeiro.f@gmail.com
 
 Project Link: [https://github.com/MikeFortes/DevOps-Estudos](https://github.com/MikeFortes/DevOps-Estudos)
